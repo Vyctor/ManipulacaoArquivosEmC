@@ -9,3 +9,24 @@ definições dos grupos);<br/>
 3. gravação de um arquivo de texto com os resultados encontrados;<br/>
 4. cada etapa do programa tem que ser uma função;<br/>
 </p>
+
+<p>O arquivo de entrada tem quatro colunas:<br/>
+1. Código - int;<br/>
+2. NomeProduto - string;<br/>
+3. Quantidade - int;<br/>
+4. Preço - float;<br/>
+O arquivo de saída terá cinco colunas:<br/>
+1. Código - int;<br/>
+2. NomeProduto - string;<br/>
+3. Quantidade - int;<br/>
+4. Preço - float;<br/>
+5. PreçoTotal - float (Quantidade*Preço);<br/>
+</p>
+
+<p>
+Definições:<br/>
+(a) colocar os preços em ordem cresente;<br/>
+(b) utilizar o algoritmo de ordenação Selection sort;<br/>
+(c) explicar na apresentação o funcionamento do algoritmo de ordenação.<br/>
+(d) gravar no arquivo de saída os 100 produtos mais baratos;<br/>
+</p>
